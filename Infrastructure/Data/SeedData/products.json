@@ -32,7 +32,7 @@
     "ProductBrandId": 2
   },
   {
-    "Name": "React Board Supper Whizzy Fast",
+    "Name": "React Board Super Whizzy Fast",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 250,
     "PictureUrl": "images/products/sb-react1.png",
@@ -48,7 +48,7 @@
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Maroon Hat",
+    "Name": "Core Blue Hat",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 10,
     "PictureUrl": "images/products/hat-core1.png",
@@ -56,7 +56,7 @@
     "ProductBrandId": 2
   },
   {
-    "Name": "Greaan React Woolen Hat",
+    "Name": "Green React Woolen Hat",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 8,
     "PictureUrl": "images/products/hat-react1.png",
@@ -64,7 +64,7 @@
     "ProductBrandId": 4
   },
   {
-    "Name": "Blue React Woolen Hat",
+    "Name": "Purple React Woolen Hat",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 15,
     "PictureUrl": "images/products/hat-react2.png",
@@ -72,7 +72,7 @@
     "ProductBrandId": 4
   },
   {
-    "Name": "Bliue Code Gloves",
+    "Name": "Blue Code Gloves",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 18,
     "PictureUrl": "images/products/glove-code1.png",
