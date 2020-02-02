@@ -13,6 +13,17 @@ namespace Infrastructure.Identity
         protected override void OnModelCreating(ModelBuilder builder) 
         {
             base.OnModelCreating(builder);
+
+            builder.Entity<AppUser>().Property(a => a.DisplayName)
+                .HasMaxLength(20)
+                .IsRequired();
+
+            builder.Entity<Address>().Property(a => a.FirstName).IsRequired();
+            builder.Entity<Address>().Property(a => a.LastName).IsRequired();
+            builder.Entity<Address>().Property(a => a.Street).IsRequired();
+            builder.Entity<Address>().Property(a => a.City).IsRequired();
+            builder.Entity<Address>().Property(a => a.State).IsRequired();
+            builder.Entity<Address>().Property(a => a.Zipcode).IsRequired();
         }
     }
 }
